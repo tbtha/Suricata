@@ -1,0 +1,20 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.bg-rosa{
+    background-color: #E83E8C;
+}
+.img-logo{
+    height: 60px;
+}
+.img-footer{
+    height: 80px;
+}
+.card-title, .list-group-item, .card-text {
+    color: #373A3C;
+}
+
+.icons-section{
+    background-color: #17a2b8;
+}
+
